@@ -1,3 +1,3 @@
-# refrigerator
+# sails-react-start
 
-a [Sails](http://sailsjs.org) application
+Simple skeleton sails with react
