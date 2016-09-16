@@ -1,0 +1,21 @@
+{
+  "name": "refrigerator",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "masaya"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}
